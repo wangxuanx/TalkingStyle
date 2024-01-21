@@ -1,0 +1,8 @@
+BIWI/save_*
+BIWI/wav
+BIWI/save/result
+draw_fig
+styletalk
+vocaset/save
+data_loader_wav2vec2.py
+main_biwi_

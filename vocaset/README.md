@@ -1,0 +1,1 @@
+`vocaset/output`, `vocaset/result`, `vocaset/save`, `vocaset/templates`,  `vocaset/vertices_npy` and `vocaset/wav`

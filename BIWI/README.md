@@ -1,0 +1,1 @@
+`BIWI/output`, `BIWI/result`, `BIWI/save`, `BIWI/templates`,  `BIWI/vertices_npy` and `BIWI/wav`

@@ -53,6 +53,10 @@ Download the pretrained models from biwi.pth and vocaset.pth. Put the pretrained
 	```
 	python demo.py BIWI --audio_file <audio_path>
 	```
+- to animate a mesh in 3D-MEAD topology, run: 
+	```
+	python demo.py MEAD --audio_file <audio_path>
+	```
 	This script will automatically generate the rendered videos in the `demo/output` folder. 
 
 ## **Training / Testing**

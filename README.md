@@ -43,7 +43,7 @@ Follow the [`BIWI/README.md`](BIWI/README.md) to preprocess BIWI dataset and put
 
 
 ## **Demo**
-Download the pretrained models from [biwi.pth](https://drive.google.com/drive/folders/1IYVyYp35ueNbXZ3XFbugFMYhTw6PBVJ8?usp=drive_link), [vocaset.pth](https://drive.google.com/drive/folders/1IYVyYp35ueNbXZ3XFbugFMYhTw6PBVJ8?usp=drive_link), and [mead.pth](https://drive.google.com/drive/folders/1IYVyYp35ueNbXZ3XFbugFMYhTw6PBVJ8?usp=drive_link). Put the pretrained models under `BIWI` and `VOCASET` folders, respectively. Given the audio signal,
+Download the pretrained models from [biwi.pth](https://drive.google.com/drive/folders/1IYVyYp35ueNbXZ3XFbugFMYhTw6PBVJ8?usp=drive_link), [vocaset.pth](https://drive.google.com/drive/folders/1IYVyYp35ueNbXZ3XFbugFMYhTw6PBVJ8?usp=drive_link), and [mead.pth](https://drive.google.com/drive/folders/1IYVyYp35ueNbXZ3XFbugFMYhTw6PBVJ8?usp=drive_link). Put the pretrained models under `BIWI`, `vocaset`, and `mead` folders, respectively. Given the audio signal,
 
 - to animate a mesh in VOCASET topology, run: 
 	```

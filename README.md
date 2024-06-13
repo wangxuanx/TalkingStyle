@@ -16,7 +16,7 @@ Official PyTorch implementation for the paper:
 
 ## **Environmental Preparation**
 
-- Ubuntu L(inux)
+- Ubuntu (Linux)
 - Python 3.8+
 - Pytorch 1.9.1+
 - CUDA 13.1 (GPU with at least 11GB VRAM)

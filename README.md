@@ -71,8 +71,9 @@ python test.py <vocaset|BIWI|MEAD>
 ```
 
 ## **Citation**
-```
-@ARTICLE{10555000,
+If you find our code or paper useful, please consider citing
+```bibtex
+@ARTICLE{talkingstyle,
   author={Song, Wenfeng and Wang, Xuan and Zheng, Shi and Li, Shuai and Hao, Aimin and Hou, Xia},
   journal={IEEE Transactions on Visualization and Computer Graphics}, 
   title={TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation}, 

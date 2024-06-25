@@ -70,6 +70,16 @@ After the above statement is executed, the test is automatically performed after
 python test.py <vocaset|BIWI|MEAD>
 ```
 
+## **Citation**
+```
+@ARTICLE{10555000,
+  author={Song, Wenfeng and Wang, Xuan and Zheng, Shi and Li, Shuai and Hao, Aimin and Hou, Xia},
+  journal={IEEE Transactions on Visualization and Computer Graphics}, 
+  title={TalkingStyle: Personalized Speech-Driven 3D Facial Animation with Style Preservation}, 
+  year={2024},
+  pages={1-12},}
+```
+
 
 ## **Acknowledgement**
 We heavily borrow the code from

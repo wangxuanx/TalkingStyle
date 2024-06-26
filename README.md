@@ -1,6 +1,6 @@
 ## **TalkingStyle**
 
-<h4 align="center">
+<h4 align="left">
 <a href="https://ieeexplore.ieee.org/abstract/document/10555000" target="_blank">Paper&nbsp</a>
 </h4>
 

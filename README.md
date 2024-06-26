@@ -1,5 +1,9 @@
 ## **TalkingStyle**
 
+<h4 align="center">
+<a href="https://ieeexplore.ieee.org/abstract/document/10555000" target="_blank">Paper&nbsp</a>
+</h4>
+
 Official PyTorch implementation for the paper:
 
 > **TalkingStyle: Personalized Speech-Driven Facial Animation with Style Preservation** [TVCG]

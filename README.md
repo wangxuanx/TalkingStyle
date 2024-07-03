@@ -6,7 +6,7 @@
 
 Official PyTorch implementation for the paper:
 
-> **TalkingStyle: Personalized Speech-Driven Facial Animation with Style Preservation** [TVCG]
+> **TalkingStyle: Personalized Speech-Driven Facial Animation with Style Preservation** [TVCG 2024]
 >
 > Wenfeng Song, Xuan Wang, Shi Zheng, Shuai Li, Aimin Hao, Xia Hou
 
